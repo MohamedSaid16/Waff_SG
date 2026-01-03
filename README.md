@@ -1,8 +1,6 @@
  
 # Nursery Management App – Documentation
 
-This folder contains the complete documentation for the **Nursery Management App** (React + Node.js/Express + MongoDB).
-
 ## Documentation Index
 
 ### 1) Setup & Running
